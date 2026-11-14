@@ -29,6 +29,7 @@ Every project listed here works with Timber 2 and has been updated in the last t
 - [Conifer](https://github.com/sitecrafting/conifer) - Library plugin for object-oriented WordPress development on top of Timber.
 - [Foehn](https://github.com/studiometa/foehn) - WordPress framework powered by Tempest, with auto-discovery for hooks, post types and blocks.
 - [timber-kit](https://github.com/parisek/timber-kit) - Starter kit library for Timber themes: configurable base site class, ACF helpers, image resizer, ACF block renderer, WPML and WPForms helpers.
+- [PressGang](https://github.com/pressgang-wp/pressgang) - Parent theme framework built on Timber, with controllers as view models and config-driven registration of post types, taxonomies, blocks and assets.
 
 ## Blocks
 
