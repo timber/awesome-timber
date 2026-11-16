@@ -59,6 +59,7 @@ Every project listed here works with Timber 2 and has been updated in the last t
 ## Learning
 
 - [Timber documentation](https://timber.github.io/docs/v2/) - Official guides and reference for Timber 2.
+- [Timber 2.0 upgrade guide](https://timber.github.io/docs/v2/upgrade-guides/2.0/) - What changed in Timber 2 and how to move a Timber 1 theme to it.
 - [Learn Timber Theme](https://github.com/timber/learn-timber-theme) - Minimal theme that serves as an entry point for learning Timber.
 
 ## Contributing
